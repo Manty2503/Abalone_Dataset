@@ -28,6 +28,6 @@ The code:
 * Applys Linear Regression between the traget attribute and the attribute wihich has the highest pearson cofficient with the target attribute(Fitting a Straight line Between two attributes).
 * Applys Linear Regression between the target attribute and all the other attributes(Fitting a straight line in higher Dimensions.)
 * Applys Polynomial Regression between the target attribute and the attribute which has the highest pearson cofficient with the target attribute(Fitting a polynomial curve between two attibutes).
-*Applys a Polynomial Regression between the target attribute and all the other attributes(Fitting a polynomial curve in the higher dimension).
+* Applys a Polynomial Regression between the target attribute and all the other attributes(Fitting a polynomial curve in the higher dimension).
 
 
