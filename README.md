@@ -29,6 +29,7 @@ Linear Regression between target attribute and the attribute with highest correl
 ![image](https://user-images.githubusercontent.com/119813195/228892170-803c8d83-e5e2-46e8-86dc-84dfaf082ce5.png)
 
 Linear Regression between target attribute and all other attributes :
+
 The best fit line is in higher dimensions so can't be plotted,
 
 ![image](https://user-images.githubusercontent.com/119813195/228892504-dbd6f595-ba4f-4cbb-accf-476fd28b3c08.png)
@@ -38,7 +39,8 @@ Polynomial Regression between target attribute and the attribute with highest co
 ![image](https://user-images.githubusercontent.com/119813195/228893242-5ec73c08-961b-4514-b7ff-093921128c6a.png)
 
 Polynomial Regression between target attribute and all other attributes :
-the best fit curve can't be plotted as they are in higher dimensions.
+
+The best fit curve can't be plotted as they are in higher dimensions.
 
 ![image](https://user-images.githubusercontent.com/119813195/228893774-3ab81e0c-19c3-4cae-9468-4562023f1461.png)
 
