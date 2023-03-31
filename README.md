@@ -1,7 +1,7 @@
 # Abalone_Dataset
 
 
- given a data file abalone.csv. Abalones are marine snails. The dataset has been prepared
+Given a data file abalone.csv. Abalones are marine snails. The dataset has been prepared
 with the aim of making age predictions easier. Customarily, the age of abalone is determined by
 cutting the shell through the cone, staining it, and counting the number of rings through a microscope.
 But it is a tedious and time-consuming task. Therefore, other measurements, which are easier to
